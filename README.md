@@ -27,3 +27,11 @@ nesil sayısı 100,
 mutasyon oranı 0.1 olarak belirlenmiştir. 
 
 Genetik Algoritma, verilen kısıtlar altında optimum hız ve yük dengesini başarıyla bulmuş, algoritmanın yakınsama davranışı nesillere göre en iyi uygunluk değerlerinin grafiği ile gösterilmiştir.
+
+Kurulum ve Çalıştırma : Bu proje Python dili ile geliştirilmiştir ve Google Colab üzerinde çalışmaya uygundur.
+
+1 .ipynb uzantılı proje dosyasını Google Colab ortamına yükleyin.
+
+2. Kod hücrelerini sırasıyla çalıştırın.
+
+3. Gerekli kütüphaneler (random, matplotlib, numpy) kod içerisinde otomatik tanımlıdır, ekstra kurulum gerektirmez.
